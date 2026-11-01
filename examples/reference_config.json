@@ -1,0 +1,22 @@
+{
+  "element_count": 8,
+  "carrier_hz": 2400000000.0,
+  "sample_rate_hz": 1000000.0,
+  "radius_m": 0.04,
+  "snapshot_count": 4096,
+  "tone_hz": 100000.0,
+  "source_az_deg": 35.0,
+  "source_el_deg": 15.0,
+  "snr_db": 15.0,
+  "scan_az_min_deg": -180.0,
+  "scan_az_max_deg": 180.0,
+  "scan_az_step_deg": 2.0,
+  "scan_el_min_deg": 0.0,
+  "scan_el_max_deg": 60.0,
+  "scan_el_step_deg": 2.0,
+  "source_count": 1,
+  "channelizer_bins": 64,
+  "channelizer_taps_per_phase": 8,
+  "random_seed": 48396
+}
+
